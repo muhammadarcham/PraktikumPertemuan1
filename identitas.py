@@ -1,0 +1,5 @@
+print("Nama: Muhammad Archam Ikhsanudin")
+print("NIM: 2605060029")
+print("Tempat, Tanggal Lahir: Semarang, 19 Juni 2008")
+print("Jenis Kelamin: Laki-laki")
+print("Hobi: Memotret")
